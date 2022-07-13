@@ -4,8 +4,6 @@ A website that helps you create, sort, and view, your own personalized flashcard
 
 [View live website here](https://flashcard-quiz-builder.netlify.app/)
 
-This project is based on a codecademy project.
-
 ### Built With
 
 - HTML,
@@ -24,3 +22,7 @@ This project is based on a codecademy project.
 
 - Add an option to delete/edit a quiz.
 - Add an option to delete/edit a category.
+
+### Credits
+
+This project is based on a codecademy project.
