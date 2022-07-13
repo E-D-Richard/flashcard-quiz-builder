@@ -14,7 +14,7 @@ This project is based on a codecademy project.
 - React,
 - React-Redux
 
-### Features I Added
+### Added Features
 
 - Prevents user from submiting a new category without selecting a category icon (initial version only prevented submition of blank  category name).
 - Prevents user from submiting a blank quiz category, a quiz with no index-cards or a quiz with blank index-card entries (default version only preveted blank quiz name submtion).
