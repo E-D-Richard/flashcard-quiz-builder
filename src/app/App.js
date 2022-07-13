@@ -38,6 +38,9 @@ export default function App() {
       </nav>
 
       <Switch>
+        <Route exact path="/">
+          <Topics/>
+        </Route>
         <Route path="/topics">
           <TopicsRoutes />
         </Route>
