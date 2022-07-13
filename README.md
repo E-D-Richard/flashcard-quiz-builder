@@ -2,7 +2,7 @@
 
 A website that help you create sort and view your own personalized flashcard quizes
 
-(https://flashcard-quiz-builder.netlify.app/)[view live website here]
+[View live website here](https://flashcard-quiz-builder.netlify.app/)
 
 This project is based on a codecademy project
 
